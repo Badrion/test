@@ -30,7 +30,7 @@ scanf("%lf", &frank);
 euro=invConvertion(frank);
 printf ("%f franc = %f euro\n\n",frank,euro);
 }
-
+.
     return 0;
 
 }
